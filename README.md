@@ -18,7 +18,7 @@ mvn spring-boot:run
 ```
 The app will start running at http://localhost:8081.
 
-# REST APIs resuests example
+# REST APIs requests example
 ```
 POST localhost:8081/api/library
 {
